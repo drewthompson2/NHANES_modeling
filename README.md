@@ -1,5 +1,5 @@
 # NHANES_modeling
-predicting health conditions based on lifestyle habits
+__predicting health conditions based on lifestyle habits__
 
 This is a exploratory project to see what kind of health conditions we can predict based on self-reported metrics.  One outcome from this project was a web-app to predict hypertension, high cholesterol, and diabetes based on a 20-question survey (found here: www.cardiometrics.life), but the dataset (the ongoing NHANES survey conducted by the CDC (available here: https://wwwn.cdc.gov/Nchs/Nhanes/ContinuousNhanes/Default.aspx)) is ripe for further analysis.  Potential additional targets include osteoporosis, anemia, or arthritis, and further exploration of potential features could improve modelling of the heart-disease-related conditions (building separate models for different age-groups is a promising path forward).
 

@@ -1,0 +1,18 @@
+body {
+/*css for full size background image*/
+  background: url(http://www.michaeljking.com/images/body2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  font-family: "Calibri";
+  font-size: medium;
+  color: "white";
+  line-height: 125%;
+  margin-left: 10px;
+}
+.starter-template {
+  padding: 40px 10px;
+  text-align: center;
+}
